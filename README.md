@@ -3,18 +3,11 @@
 Note:
 > PWA Designer is an enhanced implementation of WKWebView. The project includes customization of the UI, push notifications, authentication with iPhone biometric sensors and more.
 
-## **Contents**
 
-* [Requirements](#requirements)
-* [Installation](#installation)
-* [Usage](#usage)
-
-## <a name="requirements"></a> Requirements
+## Requirements
 
 * iOS 13.0+ / Mac OS X 11+
 * Xcode 13.3+
-
-## <a name="installation"></a> Installation
 
 ---
 
