@@ -1,10 +1,8 @@
 
-[suppported by Moonraft](https://www.moonraft.com)
-See 
-[suppported by Moonraft]([https://www.moonraft.com](https://opensource.com/article/22/6/drupal-pwa))
+[See this blog post](https://opensource.com/article/22/6/drupal-pwa) for context.
 
 Note:
-> PWA Designer is an enhanced implementation of WKWebView. The project includes customization of the UI, push notifications, authentication with iPhone biometric sensors and more.
+> PWA Designer is an enhanced implementation of WKWebView [suppported by Moonraft Innovation Labs](https://www.moonraft.com). The project includes customization of the UI, push notifications, authentication with iPhone biometric sensors and more.
 
 
 ## Requirements
